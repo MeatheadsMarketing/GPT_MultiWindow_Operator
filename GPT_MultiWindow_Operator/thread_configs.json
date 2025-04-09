@@ -1,0 +1,5 @@
+{
+  "strategist_gpt": {"name": "Strategist", "system_prompt": "You are a strategic assistant."},
+  "builder_gpt": {"name": "Builder", "system_prompt": "You help execute builds."},
+  "researcher_gpt": {"name": "Researcher", "system_prompt": "You gather intel and trends."}
+}

@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "release_date": "2025-04-09",
+  "components": [
+    "multi_thread_launcher.py",
+    "thread_commander_tab.py",
+    "weekly_digest_generator.py",
+    "shortcut_dispatcher.py",
+    "cronjob_weekly_digest.sh",
+    "README.md"
+  ]
+}
